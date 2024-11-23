@@ -1,4 +1,3 @@
-### Hi there 👋
 
 
 <!--
@@ -15,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About
+----------------------
+Simply trying to help others around me. 
+
+Others call me a software engineer, but I prefer calling myself an optimistic philosopher. 
+My journey in software engineering has not just been about coding and technology; it's been a path of learning, self-discovery, and understanding how these skills can contribute to the greater good. Technology is a tool, but philosophy is the guide that shapes its use for positive impact. I believe in the power of positive thinking and continuous personal growth, seeking not just to develop software solutions, but to inspire those I encounter along my professional and personal journey.
+
