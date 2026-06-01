@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6E56CF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Tony+Chang;Software+engineer+%2F+optimistic+philosopher;Co-Founder+%40+InsForge;Building+tools+that+help+the+people+around+me" alt="Tony Chang" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6E56CF&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Tony+Chang;Software+engineer+%2F+optimistic+philosopher;Co-Founder+%40+InsForge;Building+tools+that+help+the+people+around+me" alt="Tony Chang" />
 
 <p>
   <img src="https://img.shields.io/badge/Co--Founder-InsForge-6E56CF?style=for-the-badge" alt="InsForge" />
