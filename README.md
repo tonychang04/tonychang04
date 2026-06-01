@@ -28,18 +28,15 @@ Software engineer by title, optimistic philosopher by preference. My path throug
 
 ## What I think about
 
-The work I care about sits where hard engineering meets a clear reason to do it well. Distributed systems, machine learning infrastructure, and the parts of software that quietly hold everything else up. I believe optimism is a discipline, not a mood, and that the best software leaves people a little better than it found them.
+The work I care about sits where hard engineering meets a clear reason to do it well. Agent and cloud infrastructure, and the parts of software that quietly hold everything else up. I believe optimism is a discipline, not a mood, and that the best software leaves people a little better than it found them.
 
 ## What I'm building
 
 🏗️ **[InsForge](https://github.com/InsForge)** — an open-source, AI-native backend platform. Auth, database, storage, functions, and payments, put together so builders can ship a product without first rebuilding their infrastructure.
 
-⚙️ **[distributed-machine-learning-cluster](https://github.com/tonychang04/distributed-machine-learning-cluster)** — training machine learning models across a cluster, written in Rust.
-
 ## Tools I reach for
 
 <p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -53,16 +50,11 @@ The work I care about sits where hard engineering meets a clear reason to do it 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tonychang04&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=6E56CF&icon_color=6E56CF&theme=tokyonight" alt="Tony's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonychang04&layout=compact&hide_border=true&title_color=6E56CF&theme=tokyonight" alt="Top languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=tonychang04&hide_border=true&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF&theme=tokyonight" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=tonychang04&theme=nord&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tonychang04&bg_color=1a1b27&color=ffffff&line=6E56CF&point=ffffff&area_color=6E56CF&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Activity graph" />
 
 </div>
 
