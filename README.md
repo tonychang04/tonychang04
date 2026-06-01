@@ -3,8 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=059669&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Tony+Chang;Software+engineer+%2F+optimistic+philosopher;Co-Founder+%40+InsForge;Building+tools+that+help+the+people+around+me" alt="Tony Chang" />
 
 <p>
-  <img src="https://img.shields.io/badge/Co--Founder-InsForge-059669?style=for-the-badge" alt="InsForge" />
-  <img src="https://img.shields.io/badge/UIUC-CS%20%2B%20Stats%20Dual%20Degree%20'24-13294B?style=for-the-badge&logo=googlescholar&logoColor=white" alt="UIUC CS + Stats Dual Degree '24" />
+  <a href="https://insforge.dev"><img src="https://img.shields.io/badge/Co--Founder-InsForge-059669?style=for-the-badge" alt="InsForge" /></a>
+  <a href="https://cs.illinois.edu"><img src="https://img.shields.io/badge/UIUC-CS%20%2B%20Stats%20Dual%20Degree%20'24-13294B?style=for-the-badge&logo=googlescholar&logoColor=white" alt="UIUC CS + Stats Dual Degree '24" /></a>
 </p>
 
 <p>
