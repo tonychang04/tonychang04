@@ -4,7 +4,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Co--Founder-InsForge-6E56CF?style=for-the-badge" alt="InsForge" />
-  <img src="https://img.shields.io/badge/UIUC-CS%20'24-13294B?style=for-the-badge&logo=googlescholar&logoColor=white" alt="UIUC CS '24" />
+  <img src="https://img.shields.io/badge/UIUC-CS%20%2B%20Stats%20Dual%20Degree%20'24-13294B?style=for-the-badge&logo=googlescholar&logoColor=white" alt="UIUC CS + Stats Dual Degree '24" />
 </p>
 
 <p>
