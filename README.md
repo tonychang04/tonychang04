@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6E56CF&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Tony+Chang;Software+engineer+%2F+optimistic+philosopher;Co-Founder+%40+InsForge;Building+tools+that+help+the+people+around+me" alt="Tony Chang" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=059669&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Tony+Chang;Software+engineer+%2F+optimistic+philosopher;Co-Founder+%40+InsForge;Building+tools+that+help+the+people+around+me" alt="Tony Chang" />
 
 <p>
-  <img src="https://img.shields.io/badge/Co--Founder-InsForge-6E56CF?style=for-the-badge" alt="InsForge" />
+  <img src="https://img.shields.io/badge/Co--Founder-InsForge-059669?style=for-the-badge" alt="InsForge" />
   <img src="https://img.shields.io/badge/UIUC-CS%20%2B%20Stats%20Dual%20Degree%20'24-13294B?style=for-the-badge&logo=googlescholar&logoColor=white" alt="UIUC CS + Stats Dual Degree '24" />
 </p>
 
@@ -14,7 +14,7 @@
   <a href="mailto:tonychang430@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=tonychang04&style=flat-square&color=6E56CF&label=Profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=tonychang04&style=flat-square&color=059669&label=Profile+views" alt="Profile views" />
 
 </div>
 
@@ -50,11 +50,11 @@ The work I care about sits where hard engineering meets a clear reason to do it 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tonychang04&hide_border=true&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF&theme=tokyonight" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=tonychang04&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981&theme=tokyonight" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tonychang04&bg_color=1a1b27&color=ffffff&line=6E56CF&point=ffffff&area_color=6E56CF&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tonychang04&bg_color=1a1b27&color=ffffff&line=10B981&point=ffffff&area_color=10B981&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Activity graph" />
 
 </div>
 
