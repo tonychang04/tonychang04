@@ -46,7 +46,7 @@ The work I care about sits where hard engineering meets a clear reason to do it 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tonychang04&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981&theme=tokyonight" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=tonychang04&hide_border=true&border_radius=8&ring=10B981&fire=10B981&currStreakLabel=10B981&theme=tokyonight" alt="GitHub streak" />
 
 <br/>
 
